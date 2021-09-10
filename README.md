@@ -6,7 +6,7 @@
 > - Factory Design pattern
 > - observer Design pattern
 > - strategy Design pattern
-> >
+> 
 > *there is another version of this project* which is implementing the same patterns **using files**.
 
 this project is implementing 5 design patterns using java 
