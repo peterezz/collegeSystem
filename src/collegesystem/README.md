@@ -1,7 +1,7 @@
 # collegeSystem
 #### Functon Requrment
 >
-> - *Admin* can add, update and delete Courses and student
+> - *Admin* can add Courses and student
 >  - *Admin* can update Courses and student
 >  - *Admin* can delete Courses and student
 > - *Admin* can set course availablity
