@@ -25,3 +25,4 @@
 >   - this pattern is implemented to seplefy the add, update and deleted query for the development team
 > 
 > *there is another version of this project* which is implementing the same patterns **using files**.
+> *https://github.com/peterezz/designPatterns*
