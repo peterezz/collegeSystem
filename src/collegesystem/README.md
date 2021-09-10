@@ -5,6 +5,7 @@
 >  - *Admin* can update Courses and student
 >  - *Admin* can delete Courses and student
 > - *Admin* can set course availablity
+> - *student* can signup and login
 > - *Student* can subscribe a coure to see when is the course available
 >  - *Student* can register a course
 >  
